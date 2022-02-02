@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84b6224fbcc1ce946a4309fadd4c2734
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mushroom: {fileID: 2172866167069329824, guid: 1d3947d56529a4c4f9ee02b301e2cde5,
+      type: 3}
+  - FireFlower: {fileID: 6278296551558985597, guid: bedcf6a04a3cfda488604d1fc83b0a47,
+      type: 3}
+  - Spawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
